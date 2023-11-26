@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com"/>
+  <img src="https://github.com/pmoraless/neuro-rps/blob/16cfc2c07366ac8d6ef66f86be3829786cc7010d/images/neurocover.png"/>
 </p>
 <p>
     <em>A project cover created using artificial intelligence, Dall-E 2023 </em>
@@ -13,7 +13,7 @@ Neuro-RPS is a public-facing website report for the "Rock, Paper, Scissors" proj
 Check out the full project writeup and website [here](https://google.com/).
 
 <p align="center">
-  <img src="https://github.com"/>
+  <img src="https://github.com/pmoraless/neuro-rps/blob/16cfc2c07366ac8d6ef66f86be3829786cc7010d/images/noc.jpg"/>
 </p>
 <p>
     <em>Seizure forecasting with wearables, Frontiers in Neurology 2021</em>
