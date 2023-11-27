@@ -10,7 +10,7 @@
 ## About the Repository
 Neuro-RPS is a public-facing website report for the "Rock, Paper, Scissors" project developed as part of the "Neurotechnology, Brains, and Machines" course during the Fall of 2023. It is a collection of project analysis, website design tools, documentation, etc. Neuro-RPS was created by, and is the intellectual property of, Priscila Morales and Aissa Conde. Its ultimate purpose is to thoroughly explain the process of creating a classification for Rock, Paper, Scissors and the alternative application of nocturnal seizures through machine learning and computing.
 
-Check out the full project writeup and website [here](https://google.com/).
+Check out the full project writeup and website [here](https://pmoraless.github.io/neuro-rps/).
 
 <p align="center">
   <img src="https://github.com/pmoraless/neuro-rps/blob/16cfc2c07366ac8d6ef66f86be3829786cc7010d/images/noc.jpg"/>
