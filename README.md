@@ -23,7 +23,7 @@ Check out the full project writeup and website [here](https://pmoraless.github.i
 Special thanks is awarded to the teaching team for providing support and helping us fix bugs throughout the development of the classifier!
 
 ## Installation
-This project was developed for Unix-based environments. As such, we do not guarantee that all dependencies are Windows tested, nor that the core source code is compatible with the rendering interfacing on that OS.
+This project was developed for Unix-based environments. As such, we do not guarantee that all dependencies are Windows tested, nor that the core source code is compatible with the rendering interfacing on the OS.
   
 ## External Dependencies
 The following are required to recreate this website. Note that requirements may already be satisfied and additional platform-specific dependencies may be required depending on your target environment.
