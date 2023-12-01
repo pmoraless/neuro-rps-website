@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/pmoraless/neuro-rps/blob/16cfc2c07366ac8d6ef66f86be3829786cc7010d/images/neurocover.png"/>
+  <img src="https://github.com/pmoraless/neuro-rps-website/blob/16cfc2c07366ac8d6ef66f86be3829786cc7010d/images/neurocover.png"/>
 </p>
 <p>
     <em>A project cover created using artificial intelligence, Dall-E 2023 </em>
