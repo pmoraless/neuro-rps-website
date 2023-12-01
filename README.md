@@ -13,7 +13,7 @@ Neuro-RPS is a public-facing website report for the "Rock, Paper, Scissors" proj
 Check out the full project writeup and website [here](https://pmoraless.github.io/neuro-rps-website/).
 
 <p align="center">
-  <img src="https://github.com/pmoraless/neuro-rps/blob/16cfc2c07366ac8d6ef66f86be3829786cc7010d/images/noc.jpg"/>
+  <img src="https://github.com/pmoraless/neuro-rps-website/blob/16cfc2c07366ac8d6ef66f86be3829786cc7010d/images/noc.jpg"/>
 </p>
 <p>
     <em>Seizure forecasting with wearables, Frontiers in Neurology 2021</em>
